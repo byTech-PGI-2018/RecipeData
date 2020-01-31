@@ -1,7 +1,7 @@
 # RecipeData
 JSON de receitas em português
 
-Número de receitas: **32426**
+Número de receitas: **39487**
 
 Origem: 
 
@@ -14,3 +14,5 @@ https://www.pingodoce.pt/receitas/
 https://www.vaqueiro.pt/receitas
 
 http://www.receitasdeportugal.com/receitas/
+
+https://www.teleculinaria.pt/receitas
